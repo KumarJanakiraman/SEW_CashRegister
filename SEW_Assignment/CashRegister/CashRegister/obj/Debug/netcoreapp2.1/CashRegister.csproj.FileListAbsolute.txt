@@ -1,0 +1,14 @@
+C:\Projects\AJS\SEW_Assignment\CashRegister\CashRegister\bin\Debug\netcoreapp2.1\CashRegister.deps.json
+C:\Projects\AJS\SEW_Assignment\CashRegister\CashRegister\bin\Debug\netcoreapp2.1\CashRegister.runtimeconfig.json
+C:\Projects\AJS\SEW_Assignment\CashRegister\CashRegister\bin\Debug\netcoreapp2.1\CashRegister.runtimeconfig.dev.json
+C:\Projects\AJS\SEW_Assignment\CashRegister\CashRegister\bin\Debug\netcoreapp2.1\CashRegister.dll
+C:\Projects\AJS\SEW_Assignment\CashRegister\CashRegister\bin\Debug\netcoreapp2.1\CashRegister.pdb
+C:\Projects\AJS\SEW_Assignment\CashRegister\CashRegister\obj\Debug\netcoreapp2.1\CashRegister.csproj.CoreCompileInputs.cache
+C:\Projects\AJS\SEW_Assignment\CashRegister\CashRegister\obj\Debug\netcoreapp2.1\CashRegister.RazorAssemblyInfo.cache
+C:\Projects\AJS\SEW_Assignment\CashRegister\CashRegister\obj\Debug\netcoreapp2.1\CashRegister.RazorAssemblyInfo.cs
+C:\Projects\AJS\SEW_Assignment\CashRegister\CashRegister\obj\Debug\netcoreapp2.1\CashRegister.AssemblyInfoInputs.cache
+C:\Projects\AJS\SEW_Assignment\CashRegister\CashRegister\obj\Debug\netcoreapp2.1\CashRegister.AssemblyInfo.cs
+C:\Projects\AJS\SEW_Assignment\CashRegister\CashRegister\obj\Debug\netcoreapp2.1\CashRegister.RazorTargetAssemblyInfo.cache
+C:\Projects\AJS\SEW_Assignment\CashRegister\CashRegister\obj\Debug\netcoreapp2.1\CashRegister.dll
+C:\Projects\AJS\SEW_Assignment\CashRegister\CashRegister\obj\Debug\netcoreapp2.1\CashRegister.pdb
+C:\Projects\AJS\SEW_Assignment\CashRegister\CashRegister\obj\Debug\netcoreapp2.1\CashRegister.csprojAssemblyReference.cache
